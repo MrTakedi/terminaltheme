@@ -12,11 +12,11 @@
  * @invite 6qd3SkP6Ch
 */
 
-@import url('https://fonts.kawaiicdn.com/css2?family=Share+Tech+Mono&display=swap');
+@import url('https://fonts.storehex.com/css2?family=Share+Tech+Mono&display=swap');
 /* Import the custom font */
-@import url('https://cdn.sashimi.zip/MrTakedi/terminaltheme/master/mainRewrite.css');
+@import url('https://sashimi.storehex.com/MrTakedi/terminaltheme/master/mainRewrite.css');
 /* ^ This is the main Import ^ DO NOT TOUCH. Without this, the theme won't load!!! */
-@import url('https://cdn.sashimi.zip/MrTakedi/terminaltheme/master/css/crtEffect.css');
+@import url('https://sashimi.storehex.com/MrTakedi/terminaltheme/master/css/crtEffect.css');
 /* ^ This is the CRT effect. If you don't like it, remove or uncomment this line! ^ */
 
 /* CUSTOMIZE COLORS IN HERE! */
